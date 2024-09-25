@@ -1,5 +1,5 @@
 # stute_test_r
-Stute (1997) linearity test Use stute_test With (In) R Software
+Stute (1997) linearity test Use stute_test (StuteTest) With (In) R Software
 
 Olah Data Semarang
 
