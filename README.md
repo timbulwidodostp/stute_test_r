@@ -1,6 +1,8 @@
 # stute_test_r
 Stute (1997) linearity test Use stute_test (StuteTest) With (In) R Software
 
+https://www.youtube.com/watch?v=YGu04MGsflk
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
